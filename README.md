@@ -24,6 +24,3 @@ This machine learning application predicts whether an individual has had a strok
 - scikit-learn
 - xgboost
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
